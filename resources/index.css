@@ -1,0 +1,10 @@
+#bra-size-form {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+#bra-size-error {
+  color: red
+}
